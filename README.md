@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prabhazeal
+- 👋 Hi, I’m @Prabha
 - 👀 I’m interested in Azure Cloud
 - 🌱 I’m currently learning Microsoft Power Platform
 
